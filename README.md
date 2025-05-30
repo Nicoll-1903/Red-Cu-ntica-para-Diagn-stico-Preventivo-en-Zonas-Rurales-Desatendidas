@@ -144,7 +144,7 @@ https://minciencias.gov.co/convocatorias/convocatoria-colombia-inteligente-cienc
 > _"La computación cuántica no es solo el futuro de la tecnología, sino una puerta a la justicia social cuando se orienta con propósito."_  
 — Propuesta para transformar realidades desde la frontera del conocimiento.
 
-Referencias
+## Referencias
 [1] IBM Quantum, "Qiskit Textbook," [Online]. Available: https://qiskit.org/learn
 
 [2] M. Schuld, I. Sinayskiy, and F. Petruccione, “An introduction to quantum machine learning,” Contemporary Physics, vol. 56, no. 2, pp. 172–185, 2015, doi: 10.1080/00107514.2014.964942.
