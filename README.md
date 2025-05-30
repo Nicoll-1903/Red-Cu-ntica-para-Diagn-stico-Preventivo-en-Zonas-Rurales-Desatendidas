@@ -53,12 +53,12 @@ Las computadoras cuánticas no solo procesan más rápido; tienen una forma dist
 ### Capacidades diferenciales
 
 | Característica                    | Tecnología Convencional         | Tecnología Cuántica                       |
-|----------------------------------|----------------------------------|-------------------------------------------|
-| Volumen de datos necesario       | Alto                            | Bajo a medio (optimización probabilística)|
-| Tiempo de entrenamiento          | Lento                           | Rápido para modelos híbridos              |
-| Seguridad                        | Clave simétrica/asimétrica      | Criptografía cuántica (QKD)               |
-| Costo a futuro                   | Escalable con infraestructura   | Escalable vía nube cuántica               |
-| Exploración de múltiples hipótesis | Secuencial                      | Paralelismo cuántico                      |
+|----------------------------------|--------------------------------|------------------------------------------|
+| Volumen de datos necesario       | Alto                           | Bajo a medio (optimización probabilística)|
+| Tiempo de entrenamiento          | Lento                          | Rápido para modelos híbridos             |
+| Seguridad                        | Clave simétrica/asimétrica     | Criptografía cuántica (QKD)              |
+| Costo a futuro                   | Escalable con infraestructura  | Escalable vía nube cuántica               |
+| Exploración de múltiples hipótesis | Secuencial                   | Paralelismo cuántico                      |
 
 ---
 
@@ -78,19 +78,22 @@ Las computadoras cuánticas no solo procesan más rápido; tienen una forma dist
 
 ---
 
-## 4. Impactos Esperados
+## 4. Resultados e impactos visualizados
 
-| Indicador                             | Valor Estimado |
-|--------------------------------------|----------------|
-| Tiempo promedio de diagnóstico       | -40%           |
-| Cobertura poblacional estimada       | +15.000 hab.   |
-| Reducción en falsos negativos        | -20%           |
-| Formación de talento local           | 100 jóvenes en 2 años |
-| Implementaciones escalables          | Hasta 5 regiones piloto |
+El proyecto anticipa una transformación tangible en la salud pública y desarrollo regional, con impactos en:
+
+- **Disminución significativa en el tiempo de diagnóstico** gracias a la detección temprana y análisis rápido.
+- **Mayor cobertura y acceso a servicios de diagnóstico**, alcanzando a más de 15.000 habitantes en zonas rurales remotas.
+- **Reducción de falsos negativos**, mejorando la calidad del diagnóstico y evitando tratamientos erróneos.
+- **Fortalecimiento del capital humano local** mediante formación y creación de oportunidades en tecnologías cuánticas e inteligencia artificial.
+- **Generación de una red escalable**, que podrá extenderse a otras regiones rurales con necesidades similares, ampliando el alcance de la salud digital.
+- **Promoción de la equidad tecnológica y social**, integrando comunidades históricamente aisladas en el desarrollo científico y tecnológico.
+
+Estos resultados proyectan un modelo sostenible que combina innovación de punta con responsabilidad social, impulsando la transformación digital en zonas de alta vulnerabilidad.
 
 ---
 
-## 🛠️ Tecnología Propuesta y Fases del Proyecto
+## Tecnología Propuesta y Fases del Proyecto
 
 ### Fase 1: Prototipo en entorno de simulación
 - Algoritmos en Qiskit simulados (QSVM, VQE).
@@ -122,9 +125,6 @@ Las computadoras cuánticas no solo procesan más rápido; tienen una forma dist
 ---
 
 ## Visualización del Proyecto
-
-> ![Esquema del sistema propuesto](img/Red_Cuán.png)
-
 El flujo se resume en:
 1. Recolección de datos en campo.
 2. Transmisión segura hacia centro urbano.
@@ -134,30 +134,12 @@ El flujo se resume en:
 
 ---
 
-## Licencia y colaboración
-
-Este repositorio está bajo la Licencia MIT.  
-Consulta [LICENSE](LICENSE) para más detalles.
-
-¿Quieres colaborar? Consulta [CONTRIBUTING.md](CONTRIBUTING.md) o abre un issue.
-
----
-
-## Recursos complementarios
-
-- [Notebook introductorio en Qiskit](notebooks/Clasificador_QSVM.ipynb)
-- [LICENSE](LICENSE)
-- [CONTRIBUTING.md](CONTRIBUTING.md)
-
----
-
 ## Convocatoria original
 
-** MinCiencias - Ciencia y Tecnologías Cuánticas e Inteligencia Artificial**  
+**MinCiencias - Ciencia y Tecnologías Cuánticas e Inteligencia Artificial**  
 https://minciencias.gov.co/convocatorias/convocatoria-colombia-inteligente-ciencia-y-tecnologias-cuanticas-e-inteligencia
 
 ---
 
 > _"La computación cuántica no es solo el futuro de la tecnología, sino una puerta a la justicia social cuando se orienta con propósito."_  
 — Propuesta para transformar realidades desde la frontera del conocimiento.
-
