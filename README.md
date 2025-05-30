@@ -143,3 +143,24 @@ https://minciencias.gov.co/convocatorias/convocatoria-colombia-inteligente-cienc
 
 > _"La computación cuántica no es solo el futuro de la tecnología, sino una puerta a la justicia social cuando se orienta con propósito."_  
 — Propuesta para transformar realidades desde la frontera del conocimiento.
+
+Referencias
+[1] IBM Quantum, "Qiskit Textbook," [Online]. Available: https://qiskit.org/learn
+
+[2] M. Schuld, I. Sinayskiy, and F. Petruccione, “An introduction to quantum machine learning,” Contemporary Physics, vol. 56, no. 2, pp. 172–185, 2015, doi: 10.1080/00107514.2014.964942.
+
+[3] J. Biamonte et al., “Quantum machine learning,” Nature, vol. 549, pp. 195–202, 2017, doi: 10.1038/nature23474.
+
+[4] Ministerio de Ciencia, Tecnología e Innovación de Colombia, "Convocatoria Colombia Inteligente: Ciencia y Tecnologías Cuánticas e Inteligencia Artificial," 2024. [Online]. Available: https://minciencias.gov.co
+
+[5] Ministerio de Salud y Protección Social de Colombia, "Plan Decenal de Salud Pública 2022–2031," 2022. [Online]. Available: https://www.minsalud.gov.co
+
+[6] World Health Organization, "Delivering quality health services: a global imperative for universal health coverage," 2020. [Online]. Available: https://www.who.int/publications/i/item/9789241515472
+
+[7] J. Haut and D. Nikolic, “Quantum Support Vector Machine implementation on Noisy Intermediate-Scale Quantum devices,” ACM J. Emerg. Technol. Comput. Syst., 2022, doi: 10.1145/3557429.
+
+[8] H. Dhar et al., “Quantum cryptography: A comprehensive survey,” ACM Comput. Surv., vol. 54, no. 6, pp. 1–36, 2021, doi: 10.1145/3437964.
+
+[9] J. Pérez and M. García, “Diagnóstico remoto en zonas rurales de América Latina: estado actual y desafíos futuros,” Rev. Panam. Salud Pública, vol. 44, e59, 2020, doi: 10.26633/RPSP.2020.59.
+
+[10] Amazon Conservation Team Colombia (ACT), "Salud y territorios indígenas en la Amazonía colombiana," 2023. [Online]. Available: https://www.amazonteam.org
