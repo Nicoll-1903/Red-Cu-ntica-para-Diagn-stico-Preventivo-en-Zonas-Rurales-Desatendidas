@@ -1,1 +1,1 @@
-# Red-Cu-ntica-para-Diagn-stico-Preventivo-en-Zonas-Rurales-Desatendidas
+# Red-Cuántica-para-Diagnóstico-Preventivo-en-Zonas-Rurales-Desatendidas
